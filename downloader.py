@@ -23,7 +23,7 @@ yd.download("/Users/jasonbempong/Desktop/All/resume projects/ytdownloader/downlo
 
 
 # If you are using a IDE, this code has to be executed in a virtual environment to install pytube
-# virtual environment commands for terminal as below 
+# virtual environment commands for terminal as below (Mac OS) 
 # virtualenv venv
 # source venv/bin/activate   *to activate the environment 
 # Then its ready for use (make sure you install pytube)  ...pip install pytube
